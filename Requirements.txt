@@ -3,3 +3,4 @@ Libraries used in the App:
 - tkinter
 - sklearn
 - matplotlib
+- customtkinter
