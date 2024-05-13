@@ -1,0 +1,5 @@
+Libraries used in the App:
+- pandas
+- tkinter
+- sklearn
+- matplotlib
